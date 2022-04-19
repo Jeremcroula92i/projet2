@@ -482,18 +482,19 @@ footer {
 
 }
 
-footer ul .a {
+footer ul {
     list-style: none;
-    text-decoration: none;
-    color:black;
+
 }
 
 .gauche, .milieu, .droite {
     width: 30%;
 }
 
-footer li {
+footer li .a {
     padding: 0px 0px 5px 10px;
+    text-decoration: none;
+    color:black;
 }
 
 
