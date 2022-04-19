@@ -474,7 +474,7 @@ input::placeholder {
 /* Footer */
 
 footer {
-    background-color: #808080;
+    background-color: #F2F2F2;
     padding: 20px 0 30px 0;
     display: flex;
     justify-content: space-around;
@@ -489,10 +489,8 @@ footer ul {
 
 .gauche, .milieu, .droite, .a {
     width: 30%;
-    color: black; 
-    list-style: none; 
-    text-decoration:none;
-}
+    line-height: 2em;
+    padding: 2em 2em;}
 
 footer li,  {
     padding: 0px 0px 5px 10px;
