@@ -482,10 +482,10 @@ footer {
 
 }
 
-footer ul {
+footer ul .a {
     list-style: none;
     text-decoration: none;
-
+    color:black;
 }
 
 .gauche, .milieu, .droite {
