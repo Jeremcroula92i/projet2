@@ -489,13 +489,18 @@ footer ul {
 
 .gauche, .milieu, .droite, .a {
     width: 30%;
-    line-height: 2em;
-    padding: 2em 2em;}
+}
 
-footer li,  {
+footer li {
     padding: 0px 0px 5px 10px;
 }
 
+.lienfoot {
+    color: #9d9a9a;
+}
+divlienfoot {
+    height:30px;
+}    
 
 /*----------------------media queries-------------------*/
 /* Format Tablettes */
