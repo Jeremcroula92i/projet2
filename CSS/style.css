@@ -303,9 +303,9 @@ input::placeholder {
 
 .hebergement h3 {
     /* padding: 20px 0 20px 0px; */
-    margin-left: 40px;
-    padding-top: 50px;
-    padding-bottom: 40px;
+    margin-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
 }
 
@@ -485,17 +485,17 @@ footer {
 footer ul {
     list-style: none;
     text-decoration:none;
-
 }
 
-.gauche, .milieu, .droite {
+.gauche, .milieu, .droite, .a {
     width: 30%;
+    color: black; 
+    list-style: none; 
+    text-decoration:none;
 }
 
-footer li, .a:hover {
+footer li,  {
     padding: 0px 0px 5px 10px;
-    text-decoration: none;
-    color:black;
 }
 
 
